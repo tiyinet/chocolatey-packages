@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mengchong</id>
+    <version>2.0.31</version>
+    <title>MengChong Paradise (萌宠乐园) v2.0.31</title>
+    <authors>Yaduo Soft</authors>
+    <owners>Yaduo Soft</owners>
+    <projectUrl>https://www.mcleyuan.com/z/index.html</projectUrl>
+    <packageSourceUrl>https://github.com/tiyinet/chocolatey-packages</packageSourceUrl>
+    <projectSourceUrl>https://github.com/tiyinet/mcleyuan</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Freeware</license>
+    <description><![CDATA[萌宠乐园 · 免费的 Windows 电脑桌面宠物养成游戏（电子宠物 / 桌宠软件）。猫、狗、鸟、龟四大类共 16 个品种，从一颗蛋养到老年，完整 7 段人生；会走会睡会撒娇，眼神跟着鼠标转。Desktop Pet · Virtual Pet · Tamagotchi for Windows，免费下载。]]></description>
+    <summary>Virtual pet / desktop pet game for Windows. 16 breeds, 7 life stages, from egg to retirement.</summary>
+    <releaseNotes>https://github.com/tiyinet/mcleyuan/releases/tag/2.0.31</releaseNotes>
+    <tags>desktop-pet virtual-pet tamagotchi pet-game desktop-companion simulation windows freeware</tags>
+    <copyright>Copyright (c) Yaduo Soft</copyright>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
