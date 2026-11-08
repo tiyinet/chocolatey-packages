@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mengchongboss</id>
+    <version>2.0.15</version>
+    <title>MengChong Boss (萌宠老板) v2.0.15</title>
+    <authors>Yaduo Soft</authors>
+    <owners>Yaduo Soft</owners>
+    <projectUrl>https://www.mcleyuan.com</projectUrl>
+    <packageSourceUrl>https://github.com/tiyinet/chocolatey-packages</packageSourceUrl>
+    <projectSourceUrl>https://github.com/tiyinet/mcboss</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Freeware</license>
+    <description><![CDATA[萌宠老板 · 宠物店管理系统（宠物门店数字化经营）。收银 POS、会员管理、预约服务、宠物寄养、美容洗护、商品商城、库存管理一体化，与小程序同账号同数据，打通线上线下经营闭环。Pet Shop Management System · Pet store POS · CRM · booking · inventory.]]></description>
+    <summary>Pet shop management system: POS, membership, appointments, boarding, grooming and inventory.</summary>
+    <releaseNotes>https://github.com/tiyinet/mcboss/releases/tag/2.0.15</releaseNotes>
+    <tags>pet-shop pet-store management-system pos crm inventory booking pet-grooming windows freeware</tags>
+    <copyright>Copyright (c) Yaduo Soft</copyright>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
