@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>geobaping</id>
+    <version>2.0.0</version>
+    <title>GEO Baping (GEO霸屏) v2.0.0</title>
+    <authors>Yaduo Soft</authors>
+    <owners>Yaduo Soft</owners>
+    <projectUrl>https://yaduoo.cn</projectUrl>
+    <packageSourceUrl>https://github.com/tiyinet/chocolatey-packages</packageSourceUrl>
+    <projectSourceUrl>https://github.com/tiyinet/geobaping</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Freeware</license>
+    <description><![CDATA[GEO霸屏系统 · 企业 AI 搜索曝光与 SEO 收录推广系统（GEO 优化 / AI 搜索优化）。让企业内容进入百度、必应与 AI 搜索（生成式引擎）结果，覆盖内容生成、关键词布局、收录监测与霸屏投放。SEO tools · AI search visibility · Generative Engine Optimization.]]></description>
+    <summary>GEO / AI search visibility and SEO content distribution platform for enterprises.</summary>
+    <releaseNotes>https://github.com/tiyinet/geobaping/releases/tag/2.0.0</releaseNotes>
+    <tags>seo seo-tools generative-engine-optimization geo ai-search keyword-research marketing-tools windows freeware</tags>
+    <copyright>Copyright (c) Yaduo Soft</copyright>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
