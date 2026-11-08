@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>yaduohotel</id>
+    <version>2.0.0</version>
+    <title>Yaduo Hotel (芽朵) v2.0.0</title>
+    <authors>Yaduo Soft</authors>
+    <owners>Yaduo Soft</owners>
+    <projectUrl>https://www.yaduoo.cn</projectUrl>
+    <packageSourceUrl>https://github.com/tiyinet/chocolatey-packages</packageSourceUrl>
+    <projectSourceUrl>https://github.com/tiyinet/yaduo</projectSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Freeware</license>
+    <description><![CDATA[芽朵 · 酒店管理系统 / 民宿管理系统（Hotel Management System · PMS）。前台接待、客房管理、在线预订、会员营销、财务报表与多分店管理一体化，支持 OTA 渠道对接，适用于酒店、民宿、公寓与多业态住宿。Hotel PMS · Property management · Booking system.]]></description>
+    <summary>Hotel and guesthouse management system (PMS) with booking, rooms, members and finance.</summary>
+    <releaseNotes>https://github.com/tiyinet/yaduo/releases/tag/2.0.0</releaseNotes>
+    <tags>hotel pms hotel-management booking property-management hospitality front-desk windows freeware</tags>
+    <copyright>Copyright (c) Yaduo Soft</copyright>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
